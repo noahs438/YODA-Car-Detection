@@ -1,0 +1,6 @@
+python YodaTnT.py -i ./data/Kitti8 -o YodaOutputs -iter 10
+
+INCREASE THE NUMBER OF ITERATIONS IF YOU WANT MORE IMAGES
+
+Currently showing 3 images, the first is the one with all of the boxes, the second the ROIs, and the third the ROI overlap
+with the detected cars. The overlap is the most important, as it shows the accuracy of the detection.

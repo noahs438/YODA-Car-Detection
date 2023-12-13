@@ -1,0 +1,1 @@
+python YodaClassifierTrain.py -b 32 -lr 0.0001 -e 40 -s yoda_classifier.pth -p yoda_classifier.png -m test
