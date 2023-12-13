@@ -2,6 +2,8 @@
 
 ### Using a modified version of ResNet 18 to create "NoseNet"; a model that is trained on a subset of the oxford-iiit-pets dataset to recognize the center of pets' noses.
 
+| ![Img5](YODAImage5.png)  | ![Img6](YODAImage6.png) | ![Img7](YODAImage7.png) |
+
 | ![Img1](YODAImage1.png)  | ![Img2](YODAImage2.png) |
 | --------------------------------------- | --------------------------------------- |
 | ![Img3](YODAImage3.png)  | ![Img4](YODAImage4.png) |
