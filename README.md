@@ -1,6 +1,6 @@
 # YODA Car Detection
 
-### Using a modified version of ResNet 18 to create "NoseNet"; a model that is trained on a subset of the oxford-iiit-pets dataset to recognize the center of pets' noses.
+### YODA (You Only Detect Anchors), a modified version of YOLO, is used in this case to detect cars and place them in bounding boxes within an image.
 
 ## Here is an example of the progression:
 ![Img5](YODAImage5.png) ![Img6](YODAImage6.png) ![Img7](YODAImage7.png)
